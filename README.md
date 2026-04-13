@@ -71,7 +71,7 @@ This presentation communicates the project’s ecological findings, GIS workflow
 ## 🗺️ Spatial Output
 
 ### Ulmus pumila Distribution Map
-![Ulmus pumila distribution](MEDIA/ulmus_distribution_map.jpg)
+![Ulmus pumila distribution](/ulmus_distribution_map.jpg)
 
 ---
 
