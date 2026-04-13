@@ -103,7 +103,7 @@ It demonstrates how **field ecology + GIS** can directly inform environmental ma
 
 ## 📄 Paper
 
-[Butte Creek Ulmus pumila Monitoring](butte-creek-ulmus-pumila-monitoring.pdf)
+[Butte Creek Ulmus pumila Monitoring](\butte-creek-ulmus-pumila-monitoring.pdf)
 
 ---
 
