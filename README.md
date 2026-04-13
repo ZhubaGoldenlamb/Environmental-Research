@@ -220,7 +220,7 @@ It demonstrates a scalable workflow for mapping remote ecosystems using limited 
 
 ## 📄 Paper
 
-`paper.pdf`
+[Butte Creek Ulmus pumila Monitoring](butte-creek-ulmus-pumila-monitoring.pdf)
 
 ---
 
