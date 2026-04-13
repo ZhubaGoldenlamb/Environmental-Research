@@ -11,31 +11,7 @@ Together, these projects demonstrate my ability to:
 - Conduct **independent field research and GIS analysis**
 - Collaborate on **team-based scientific fieldwork in remote environments**
 - Build **end-to-end geospatial workflows** from data collection → analysis → decision support
-- Translate ecological systems into **structured, high-quality spatial datasets**
-
----
-
-## 🧭 Core Capabilities Demonstrated
-
-- **Field Data Collection & QA/QC**
-  - GPS data collection (Trimble Juno)
-  - Ecological classification and species identification
-  - Large-scale data validation and cleaning
-
-- **GIS & Remote Sensing**
-  - QGIS and ArcGIS spatial analysis
-  - LANDSAT processing and vegetation indices (TSAVI)
-  - Spatial normalization and comparative analysis
-
-- **Analytical Thinking**
-  - Linking disturbance processes to ecological outcomes
-  - Comparing restored vs. unmanaged systems
-  - Translating raw data into actionable insights
-
-- **Professional Skills**
-  - Independent project design and execution
-  - Team-based scientific collaboration
-  - Communicating results to both technical and general audiences
+- Translate ecological systems into **structured, high-quality spatial datasets and presentations**
     
 # 🌿 Butte Creek Restoration — Invasive Species Monitoring  
 ### Ulmus pumila (Siberian Elm) — Arizona Riparian System
