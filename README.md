@@ -85,7 +85,7 @@ This presentation communicates the project’s ecological findings, GIS workflow
 ## 🗺️ Spatial Output
 
 ### Ulmus pumila Distribution Map
-![Ulmus pumila distribution](/ulmus_distribution_map.jpg)
+<img src="/ulmus_distribution_map.jpg" width="400">
 
 ---
 
@@ -194,7 +194,7 @@ This context shaped the project’s **applied, ground-truthed approach**.
 ## 🗺️ Spatial Output
 
 ### Final Vegetation Map
-![Estero vegetation map](/estero_vegetation_map.png)
+<img src="/estero_vegetation_map.png" width="450">
 
 ---
 
