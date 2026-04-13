@@ -187,7 +187,7 @@ This context shaped the project’s **applied, ground-truthed approach**.
 ## 🗺️ Spatial Output
 
 ### Final Vegetation Map
-![Estero vegetation map](MEDIA/estero_vegetation_map.jpg)
+![Estero vegetation map](/estero_vegetation_map.jpg)
 
 ---
 
