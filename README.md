@@ -103,7 +103,7 @@ It demonstrates how **field ecology + GIS** can directly inform environmental ma
 
 ## 📄 Paper
 
-`paper.pdf`
+[Butte Creek Ulmus pumila Monitoring](butte-creek-ulmus-pumila-monitoring.pdf)
 
 ---
 
@@ -220,7 +220,7 @@ It demonstrates a scalable workflow for mapping remote ecosystems using limited 
 
 ## 📄 Paper
 
-[Butte Creek Ulmus pumila Monitoring](butte-creek-ulmus-pumila-monitoring.pdf)
+
 
 ---
 
