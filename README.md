@@ -220,7 +220,9 @@ It demonstrates a scalable workflow for mapping remote ecosystems using limited 
 
 ## 📄 Paper
 
+## 📄 Full Research Paper
 
+[Estero Sargento Vegetation Mapping](estero-sargento-vegetation-mapping.pdf)
 
 ---
 
