@@ -1,4 +1,42 @@
 # Environmental-Research
+## 📍 Overview
+
+This repository showcases applied environmental research integrating **field ecology, GIS, and remote sensing** across two complementary projects:
+
+- **Butte Creek Restoration (Arizona)** — an independent research project where I designed and conducted field data collection, spatial analysis, and ecological interpretation
+- **Estero Sargento Mapping (Mexico)** — a team-based field research project combining remote sensing workflows with ground-truthed ecological data
+
+Together, these projects demonstrate my ability to:
+
+- Conduct **independent field research and GIS analysis**
+- Collaborate on **team-based scientific fieldwork in remote environments**
+- Build **end-to-end geospatial workflows** from data collection → analysis → decision support
+- Translate ecological systems into **structured, high-quality spatial datasets**
+
+---
+
+## 🧭 Core Capabilities Demonstrated
+
+- **Field Data Collection & QA/QC**
+  - GPS data collection (Trimble Juno)
+  - Ecological classification and species identification
+  - Large-scale data validation and cleaning
+
+- **GIS & Remote Sensing**
+  - QGIS and ArcGIS spatial analysis
+  - LANDSAT processing and vegetation indices (TSAVI)
+  - Spatial normalization and comparative analysis
+
+- **Analytical Thinking**
+  - Linking disturbance processes to ecological outcomes
+  - Comparing restored vs. unmanaged systems
+  - Translating raw data into actionable insights
+
+- **Professional Skills**
+  - Independent project design and execution
+  - Team-based scientific collaboration
+  - Communicating results to both technical and general audiences
+    
 # 🌿 Butte Creek Restoration — Invasive Species Monitoring  
 ### Ulmus pumila (Siberian Elm) — Arizona Riparian System
 
@@ -114,6 +152,7 @@ Environmental Systems • GIS • Field Ecology
 https://github.com/ZhubaGoldenlamb
 
 ---
+
 # 🌊 Estero Sargento Vegetation Mapping  
 ### Remote Sensing + Field Ecology — Gulf of California, Mexico
 
@@ -232,3 +271,24 @@ It demonstrates a scalable workflow for mapping remote ecosystems using limited 
 Prescott College — Environmental Studies  
 
 https://github.com/ZhubaGoldenlamb
+
+---
+
+## 🧠 Conclusion
+
+These projects represent two complementary modes of environmental research:
+
+- At **Butte Creek**, I independently designed and executed a full workflow — from field data collection to GIS analysis — producing a repeatable monitoring framework for invasive species management.
+
+- At **Estero Sargento**, I worked as part of a field research team in a remote, international setting, integrating **remote sensing, field sampling, and statistical analysis** to map ecological communities.
+
+Together, this work demonstrates my ability to operate both:
+
+- **Independently** — designing and delivering complete geospatial analyses  
+- **Collaboratively** — contributing to complex, team-based environmental research  
+
+Across both projects, I apply a consistent approach:
+
+> Collect reliable data → structure it → analyze spatial patterns → translate results into ecological insight
+
+This reflects a focus on building **robust, scalable geospatial workflows** that support real-world environmental decision-making.
