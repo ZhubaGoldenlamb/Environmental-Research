@@ -145,14 +145,6 @@ It demonstrates how **field ecology + GIS** can directly inform environmental ma
 
 ---
 
-## 👤 Author
-
-**Zhuba Goldenlamb**  
-Environmental Systems • GIS • Field Ecology  
-https://github.com/ZhubaGoldenlamb
-
----
-
 # 🌊 Estero Sargento Vegetation Mapping  
 ### Remote Sensing + Field Ecology — Gulf of California, Mexico
 
@@ -262,15 +254,6 @@ It demonstrates a scalable workflow for mapping remote ecosystems using limited 
 ## 📄 Full Research Paper
 
 [Estero Sargento Vegetation Mapping](estero-sargento-vegetation-mapping.pdf)
-
----
-
-## 👤 Authors
-
-**Zhuba Goldenlamb** (and collaborators)  
-Prescott College — Environmental Studies  
-
-https://github.com/ZhubaGoldenlamb
 
 ---
 
